@@ -1,0 +1,5 @@
+﻿In quantum mechanics and its applications to quantum many-particle systems, notably quantum chemistry, angular momentum diagrams, or more accurately from a mathematical viewpoint angular momentum graphs, are a diagrammatic method for representing angular momentum quantum states of a quantum system allowing calculations to be done symbolically. More specifically, the arrows encode angular momentum states in bra–ket notation and include the abstract nature of the state, such as tensor products and transformation rules.
+
+The notation parallels the idea of Penrose graphical notation and Feynman diagrams. The diagrams consist of arrows and vertices with quantum numbers as labels, hence the alternative term "graphs". The sense of each arrow is related to Hermitian conjugation, which roughly corresponds to time reversal of the angular momentum states (c.f. Schrödinger equation). The diagrammatic notation is a considerably large topic in its own right with a number of specialized features – this article introduces the very basics.
+
+They were developed primarily by Adolfas Jucys in the twentieth century.
